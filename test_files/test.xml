@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LandXML xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" date="2023-11-22" time="11:13:08">
+  <Units>
+    <Metric areaUnit="squareMeter" linearUnit="meter" volumeUnit="cubicMeter" temperatureUnit="celsius" pressureUnit="HPA"/>
+  </Units>
+  <Project name="Stenungsund_dmt_231116"/>
+  <Application name="OpenRoads Designer" version="10.11.00.115" manufacturer="Bentley Systems, Inc." manufacturerURL="http://www.bentley.com"/>
+  <Surfaces>
+    <Surface name="Stenungsund_dmt_231116">
+      <Definition surfType="TIN">
+        <Pnts>
+          <P id="1">6452089.6160000013 147040.28599999999 64.691000000000003</P>
+          <P id="2">6452089.6160000013 147040.28599999999 64.691000000000003</P>
+          <P id="3">6452089.6160000013 147040.28599999999 64.691000000000003</P>
+          <P id="4">6452089.6160000013 147040.28599999999 64.691000000000003</P>
+        </Pnts>
+        <Faces>
+          <F>1 2 3</F>
+          <F>1 2 4</F>
+          <F>1 3 4</F>
+        </Faces>
+      </Definition>
+    </Surface>
+  </Surfaces>
+</LandXML>
